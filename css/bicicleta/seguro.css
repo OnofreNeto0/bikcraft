@@ -1,0 +1,7 @@
+.seguro-bg {
+  background: #171717;
+}
+.seguro-bicicleta {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
