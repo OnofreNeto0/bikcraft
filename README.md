@@ -10,7 +10,7 @@
 
 # :clipboard: Descrição do Projeto
 
-<p align="justify">Site para apresentar e vender bicicletas elétricas </p>
+<p align="justify">Site para apresentar e vender bicicletas elétricas. </p>
 
 # :eyes: Desmostração da Pagina
 <p> No link abaixo você pode acessar a pagina</p>
@@ -22,7 +22,7 @@ https://github.com/OnofreNeto0/bikcraft/assets/125808109/7a12d71f-1b5d-4f36-8cfe
 
 - `Funcionalidade 1`: Mostrar os produtos e serviços da Bikcraft.
 - `Funcionalidade 2`: Enviar formularios para compra e contato dos produtos.
-- `Funcionalidade 3`: Apresentar uma página de vendas completa criada com html, css e javascrit.
+- `Funcionalidade 3`: Apresentar uma página de vendas completa criada com html, css e javascript.
 
 # :heavy_check_mark: Tecnologias Utilizadas
 
